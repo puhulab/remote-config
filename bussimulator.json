@@ -1,8 +1,16 @@
 {
   "configs" : [
     {
-      "key" : "LAST_VERSION",
+      "key" : "lastVersion",
       "value" : "5.04.0"
+    },
+    {
+      "key" : "iosBundleId",
+      "value" : "com.puhulab.bussimulator"
+    },
+    {
+      "key" : "androidBundleId",
+      "value" : "com.genetblala"
     }
   ]
 }
