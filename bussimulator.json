@@ -19,6 +19,14 @@
     {
       "key": "appStoreLink",
       "value": "https://not-defined-yet"
+    },
+    {
+      "key" : "playStoreUpdateLink",
+      "value": "https://play.google.com/store/apps/details?id=com.geneticstudio.bussimulator2017"
+    },
+    {
+      "key": "appStoreUpdateLink",
+      "value": "https://not-defined-yet"
     }
   ]
 }
