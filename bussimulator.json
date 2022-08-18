@@ -2,7 +2,7 @@
   "configs" : [
     {
       "key" : "lastVersion",
-      "value" : "1.00.0"
+      "value" : "5.05.0"
     },
     {
       "key" : "iosBundleId",
